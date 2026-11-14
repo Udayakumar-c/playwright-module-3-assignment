@@ -9,21 +9,7 @@ End-to-end browser automation with Playwright Test (JavaScript).
 - Task 1: https://rahulshettyacademy.com/seleniumPractise/#/
 - Task 2: https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
 
-## Installation
-```bash
-npm install
-npx playwright install chromium
-```
 
-## Execution Commands
-```bash
-npm test             # run both tests
-npm run test:q1      # Task 1 only
-npm run test:q2      # Task 2 only
-npm run test:headed  # run with visible browser
-npm run report       # open HTML report
-```
----
 
 ## Task 1: Broccoli Order Placement
 
@@ -76,8 +62,9 @@ npm run report       # open HTML report
 
 ## Execution Evidence
 - Console log: `npm test | tee evidence/console-log.txt`
-- Screenshots: saved under `test-results/` (one per test)
+- Screenshots: saved under `test-results/`, S
 - HTML report: `playwright-report/`
 
 ## GitHub Repository
-Add your link here: `https://github.com/<your-username>/<repo-name>`
+Add your link here: `https://github.com/Udayakumar-c/playwright-module-3-assignment`
+
