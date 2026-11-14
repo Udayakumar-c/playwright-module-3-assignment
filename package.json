@@ -1,0 +1,21 @@
+{
+  "name": "github_submission_module_3_end",
+  "version": "1.0.0",
+  "description": "End-to-end browser automation with Playwright Test (JavaScript).",
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright": "^1.65.0",
+    "playwright-core": "^1.65.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
