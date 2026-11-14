@@ -60,11 +60,6 @@ End-to-end browser automation with Playwright Test (JavaScript).
 - No fixed waits; only auto-waiting and web-first assertions.
 - Tests run headless in Chromium by default.
 
-## Execution Evidence
-- Console log: `npm test | tee evidence/console-log.txt`
-- Screenshots: saved under `test-results/`, S
-- HTML report: `playwright-report/`
-
 ## GitHub Repository
 Add your link here: `https://github.com/Udayakumar-c/playwright-module-3-assignment`
 
